@@ -1,0 +1,6 @@
+42 Suc_ve_Ceza Fyodor_Dostoyevski 1152
+23 Franz_Kafka Milenaya_Mektuplar 395
+54 Yeni Yeni 321
+1 Nutuk Mustafa_Kemal_Ataturk 658
+2 Sefiller Victor_Hugo 1515
+549 Test Test 123
